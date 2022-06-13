@@ -1,2 +1,2 @@
 # Discord.py Template
-Simples template de um discord bot usando a API Discord.py
+Just a simple template to discord.py
